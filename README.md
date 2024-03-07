@@ -1,2 +1,2 @@
 # talk-to-chatgpt
-git init
+ talk to chat gpt
